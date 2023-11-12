@@ -1,0 +1,10 @@
+1Twin A,2,660,660,26,0,Tornado_52/Tornado_52/Tornado_52
+Twin B,2,660,660,26,0,Tornado_52/Tornado_52/Tornado_52
+Alice,2,720,720,33,0,Missile launcher_60/Plasmer_20/Railgun_80
+Brashovan,0,430,430,вамвамвамим,0,Multicannon_10
+Mriya,2,720,720,6,0,Plasmer_20/Multicannon_10/Multicannon_10
+Catship,4,880,880,13,0,Multicannon_10/Railgun_80/Cannon_30/Multicannon_10/Multicannon_10
+Aboba,4,920,920,36,0,Beam cannon_45/Beam cannon_45/Multicannon_10/Railgun_80/Beam cannon_45
+Kris S,2,700,700,3,0,Railgun_80/Beam cannon_45/Multicannon_10
+Reni,1,570,570,31,0,Cannon_30_вапвапвапапвап/Beam cannon_45
+Molfar,3,760,760,31,0,Plasmer_20/Beam cannon_45/Missile launcher_60/Beam cannon_45

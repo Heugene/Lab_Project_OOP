@@ -1,0 +1,3 @@
+{"Name":"Test1","Type":0,"MaxHull":1000,"Hull":1000,"HealRate":40,"Weapons":[{"Name":"weapon","Damage":0}],"State":0}
+{"Name":"Test2","Type":2,"MaxHull":10h00,"Hull":1000,"HealRate":40,"Weapons":[{"Name":"weapon","Damage":0},{"Name":"weapon","Damage":0},{"Name":"weapon","Damage":0}],"State":0}
+{"Name":"Test3","Type":1,"MaxHull":1000,"Hull":1000,"HealRate":40,"Weapons":[{"Name":"weapon","Damage":0},{"Name":"weapon","Damage":0}],"State":0}

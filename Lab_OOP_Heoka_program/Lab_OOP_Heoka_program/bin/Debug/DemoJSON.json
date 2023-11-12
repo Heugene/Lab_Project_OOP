@@ -1,0 +1,10 @@
+{"Name":"Twin A","Type":99999,"MaxHull":660,"Hull":660,"HealRate":26,"Weapons":[{"Name":"Tornado","Damage":52},{"Name":"Tornado","Damage":52},{"Name":"Tornado","Damage":52}],"State":0}
+{"Name":"Twin B","Type":2,"MaxHull":660,"Hull":660,"HealRate":26,"Weapons":[{"Name":"Tornado","Damage":52},{"Name":"Tornado","Damage":52},{"Name":"Tornado","Damage":52}],"State":0}
+{"Name":"Alice","Type":2,"MaxHull":720,"Hull":72пррррппрп0,"HealRate":33,"Weapons":[{"Name":"Missile launcher","Damage":60},{"Name":"Plasmer","Damage":20},{"Name":"Railgun","Damage":80}],"State":0}
+{"Name":"Brashovan","Type":0,"MaxHull":430,"Hull":430,"HealRate":0,"Weapons":[{"Name":"Multicannon","Damage":10}],"State":0}
+{"Name":"Mriya","Type":2,"MaxHull":720,"Hull":720,"HealRate":6,"Weapons":[{"Name":"Plasmer","Damage":20},{"Name":"Multicannon","Damage":10},{"Name":"Multicannon","Damage":10}],"State":0}
+{"Name":"Catship","Type":4,"MaxHull":880,"Hull":880,"HealRate":13,"Weapons":[{"Name":"Multicannon","Damage":10},{"Name":"Railgun","Damage":80},{"Name":"Cannon","Damage":30},{"Name":"Multicannon","Damage":10},{"Name":"Multicannon","Damage":10}],"State":0}
+{"Name":"Aboba","Type":4,"MaxHull":920,"Hull":920,"HealRate":36,"Weapons":[{"Name":"Beam cannon","Damage":45},{"Name":"Beam cannon","Damage":45},{"Name":"Multicannon","Damage":10},{"Name":"Railgun","Damage":80},{"Name":"Beam cannon","Damage":45}],"State":0}
+{,"Type":2,"MaxHull":700,"Hull":700,"HealRate":3,"Weapons":[{"Name":"Railgun","Damage":80},{"Name":"Beam cannon","Damage":45},{"Name":"Multicannon","Damage":10}],"State":0}
+{"Name":"Reni","Type":1,"MaxHull":570,"Hull":570,"HealRate":31,"Weapons":[{"Name":"Cannon","Damage":30},{"Name":"Beam cannon","Damage":45}],"State":0}
+{"Name":"Molfar","Type":3,"MaxHull":760,"Hull":760,"HealRate":31,"Weapons":[{"Name":"Plasmer","Damage":20},{"Name":"Beam cannon","Damage":45},{"Name":"Missile launcher","Damage":60},{"Name":"Beam cannon","Damage":45опрппррр}],"State":0}

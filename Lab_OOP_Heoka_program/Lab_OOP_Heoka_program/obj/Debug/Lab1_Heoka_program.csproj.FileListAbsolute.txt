@@ -1,0 +1,16 @@
+D:\ХАІ\1 курс\ООП\ЛР 1\Lab1_Heoka_program\Lab1_Heoka_program\bin\Debug\Lab1_Heoka_program.exe.config
+D:\ХАІ\1 курс\ООП\ЛР 1\Lab1_Heoka_program\Lab1_Heoka_program\bin\Debug\Lab1_Heoka_program.exe
+D:\ХАІ\1 курс\ООП\ЛР 1\Lab1_Heoka_program\Lab1_Heoka_program\bin\Debug\Lab1_Heoka_program.pdb
+D:\ХАІ\1 курс\ООП\ЛР 1\Lab1_Heoka_program\Lab1_Heoka_program\obj\Debug\Lab1_Heoka_program.csproj.AssemblyReference.cache
+D:\ХАІ\1 курс\ООП\ЛР 1\Lab1_Heoka_program\Lab1_Heoka_program\obj\Debug\Lab1_Heoka_program.csproj.SuggestedBindingRedirects.cache
+D:\ХАІ\1 курс\ООП\ЛР 1\Lab1_Heoka_program\Lab1_Heoka_program\obj\Debug\Lab1_Heoka_program.csproj.CoreCompileInputs.cache
+D:\ХАІ\1 курс\ООП\ЛР 1\Lab1_Heoka_program\Lab1_Heoka_program\obj\Debug\Lab1_Heoka_program.exe
+D:\ХАІ\1 курс\ООП\ЛР 1\Lab1_Heoka_program\Lab1_Heoka_program\obj\Debug\Lab1_Heoka_program.pdb
+D:\ХАІ\1 курс\ООП\ЛР 1\Lab1_Heoka_program\Lab1_Heoka_program\Lab1_Heoka_program\bin\Debug\Lab1_Heoka_program.exe.config
+D:\ХАІ\1 курс\ООП\ЛР 1\Lab1_Heoka_program\Lab1_Heoka_program\Lab1_Heoka_program\bin\Debug\Lab1_Heoka_program.exe
+D:\ХАІ\1 курс\ООП\ЛР 1\Lab1_Heoka_program\Lab1_Heoka_program\Lab1_Heoka_program\bin\Debug\Lab1_Heoka_program.pdb
+D:\ХАІ\1 курс\ООП\ЛР 1\Lab1_Heoka_program\Lab1_Heoka_program\Lab1_Heoka_program\obj\Debug\Lab1_Heoka_program.csproj.AssemblyReference.cache
+D:\ХАІ\1 курс\ООП\ЛР 1\Lab1_Heoka_program\Lab1_Heoka_program\Lab1_Heoka_program\obj\Debug\Lab1_Heoka_program.csproj.SuggestedBindingRedirects.cache
+D:\ХАІ\1 курс\ООП\ЛР 1\Lab1_Heoka_program\Lab1_Heoka_program\Lab1_Heoka_program\obj\Debug\Lab1_Heoka_program.csproj.CoreCompileInputs.cache
+D:\ХАІ\1 курс\ООП\ЛР 1\Lab1_Heoka_program\Lab1_Heoka_program\Lab1_Heoka_program\obj\Debug\Lab1_Heoka_program.exe
+D:\ХАІ\1 курс\ООП\ЛР 1\Lab1_Heoka_program\Lab1_Heoka_program\Lab1_Heoka_program\obj\Debug\Lab1_Heoka_program.pdb

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Lab_OOP_Heoka_program.Logger">
+    <Position X="0.5" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAACAAACAAAAgAAAAAAEAAAAQ=</HashCode>
+      <FileName>Logger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_OOP_Heoka_program.Program">
+    <Position X="9.25" Y="1" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgTCQIAAAIAAAASCCAWAABAAABECApAQIAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_OOP_Heoka_program.SpaceShip">
+    <Position X="3.5" Y="1" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AIAggAIIABQCAACECAEAAEQBAIAFAQAEAQQA1ECEgDA=</HashCode>
+      <FileName>SpaceShip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_OOP_Heoka_program.Weapon">
+    <Position X="0.5" Y="3.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAAACAAAAAAIAEAAAAAAYAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lab_OOP_Heoka_program.Validator">
+    <Position X="9.25" Y="7.75" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAgIAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Lab_OOP_Heoka_program.ShipState">
+    <Position X="0.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAQAAAAAAAAAAIA=</HashCode>
+      <FileName>ShipState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Lab_OOP_Heoka_program.ShipType">
+    <Position X="0.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAAAAAAAEAAAAAAAAAAAAAAAAAAAAAgAAAAIA=</HashCode>
+      <FileName>ShipType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
