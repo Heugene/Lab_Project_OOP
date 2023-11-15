@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D37wwWFfwXpTWQ4XEVUeIOWAgCVSoWhfY6TxOW0wwzYzpclPxBRGdj2YSYqBv/Cx3cIRA5jA/ylWvd3TcmlWFA==",
+  "dgSpecHash": "dtu4nDhEmA9ksdcn+SAJ8Dl5zQkEkHMcftBwNZjN6siKN5LUngGOBYXWz2zD9F9qN+8MtIIeKG2eQQr34qlDtQ==",
   "success": true,
-  "projectFilePath": "D:\\ХАІ\\1 курс\\ООП\\ЛР 7\\Lab_OOP_Heoka_program\\Lab_OOP_Heoka_program\\Lab_OOP_Heoka_Tests\\Lab_OOP_Heoka_Tests.csproj",
+  "projectFilePath": "D:\\ХАІ\\1 курс\\ООП\\Practice 1\\Lab_Project_OOP_VS\\Lab_OOP_Heoka_program\\Lab_OOP_Heoka_Tests\\Lab_OOP_Heoka_Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

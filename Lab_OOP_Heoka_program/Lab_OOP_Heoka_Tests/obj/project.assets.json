@@ -6546,11 +6546,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ХАІ\\1 курс\\ООП\\ЛР 7\\Lab_OOP_Heoka_program\\Lab_OOP_Heoka_program\\Lab_OOP_Heoka_Tests\\Lab_OOP_Heoka_Tests.csproj",
+      "projectUniqueName": "D:\\ХАІ\\1 курс\\ООП\\Practice 1\\Lab_Project_OOP_VS\\Lab_OOP_Heoka_program\\Lab_OOP_Heoka_Tests\\Lab_OOP_Heoka_Tests.csproj",
       "projectName": "Lab_OOP_Heoka_Tests",
-      "projectPath": "D:\\ХАІ\\1 курс\\ООП\\ЛР 7\\Lab_OOP_Heoka_program\\Lab_OOP_Heoka_program\\Lab_OOP_Heoka_Tests\\Lab_OOP_Heoka_Tests.csproj",
+      "projectPath": "D:\\ХАІ\\1 курс\\ООП\\Practice 1\\Lab_Project_OOP_VS\\Lab_OOP_Heoka_program\\Lab_OOP_Heoka_Tests\\Lab_OOP_Heoka_Tests.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\ХАІ\\1 курс\\ООП\\ЛР 7\\Lab_OOP_Heoka_program\\Lab_OOP_Heoka_program\\Lab_OOP_Heoka_Tests\\obj\\",
+      "outputPath": "D:\\ХАІ\\1 курс\\ООП\\Practice 1\\Lab_Project_OOP_VS\\Lab_OOP_Heoka_program\\Lab_OOP_Heoka_Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6571,8 +6571,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\ХАІ\\1 курс\\ООП\\ЛР 7\\Lab_OOP_Heoka_program\\Lab_OOP_Heoka_program\\Lab_OOP_Heoka_program\\Lab_OOP_Heoka_program.csproj": {
-              "projectPath": "D:\\ХАІ\\1 курс\\ООП\\ЛР 7\\Lab_OOP_Heoka_program\\Lab_OOP_Heoka_program\\Lab_OOP_Heoka_program\\Lab_OOP_Heoka_program.csproj"
+            "D:\\ХАІ\\1 курс\\ООП\\Practice 1\\Lab_Project_OOP_VS\\Lab_OOP_Heoka_program\\Lab_OOP_Heoka_program\\Lab_OOP_Heoka_program.csproj": {
+              "projectPath": "D:\\ХАІ\\1 курс\\ООП\\Practice 1\\Lab_Project_OOP_VS\\Lab_OOP_Heoka_program\\Lab_OOP_Heoka_program\\Lab_OOP_Heoka_program.csproj"
             }
           }
         }
@@ -6624,7 +6624,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }

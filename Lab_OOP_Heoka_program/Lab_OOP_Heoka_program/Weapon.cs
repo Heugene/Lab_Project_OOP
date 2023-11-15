@@ -41,5 +41,7 @@ namespace Lab_OOP_Heoka_program
         {
             return $"{Name}_{Damage}";
         }
+
+        //jkjkjkl
     }
 }
